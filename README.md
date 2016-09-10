@@ -1,6 +1,14 @@
 hexo-theme-yilia
 ================
 
+### **更新**:
+
+1. 在hexo3.0下的[代码块显示问题](http://simtalk.cn/2016/07/07/Hexo%E5%8E%BB%E9%99%A4%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BB%91%E5%8A%A8%E6%9D%A1/)
+
+2. [添加文章目录和返回顶部功能](http://simtalk.cn/2016/05/08/%E6%B7%BB%E5%8A%A0%E6%96%87%E7%AB%A0%E7%9B%AE%E5%BD%95%E5%92%8C%E8%BF%94%E5%9B%9E%E9%A1%B6%E9%83%A8%E5%8A%9F%E8%83%BD/)
+
+### 原项目markdown内容 :
+
 Yilia 是为 [hexo](https://github.com/tommy351/hexo) 2.4+制作的主题。
 崇尚简约优雅，以及极致的性能。 你可以点击 [我的博客](http://litten.github.io/) 查看效果。           
  
@@ -96,11 +104,6 @@ subnav:
   #linkedin: "#"
 
 rss: /atom.xml
-
-# 是否需要修改 root 路径
-# 如果您的网站存放在子目录中，例如 http://yoursite.com/blog，
-# 请将您的 url 设为 http://yoursite.com/blog 并把 root 设为 /blog/。
-root: 
 
 # Content
 excerpt_link: more

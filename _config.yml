@@ -2,27 +2,27 @@
 menu:
   主页: /
   所有文章: /archives
-  # 随笔: /tags/随笔
+  生活: /categories/life
+
+# 简历: http://www.zhiyeapp.com/shangyan
+
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
+  github: "https://github.com/Simshang"
+#  linkedin: "https://www.linkedin.com/in/shangyan"
+  zhihu: "https://www.zhihu.com/people/shangyan"
+  weibo: "https://www.weibo.com/shangyan88"
+  mail: "http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=l_T-9vnwue72_dfx_O-69v77ufT4_g"
+
   #douban: "#"
-  #mail: "#"
+  #rss: "#"
   #facebook: "#"
   #google: "#"
   #twitter: "#"
-  #linkedin: "#"
+
 
 rss: /atom.xml
-
-# 是否需要修改 root 路径
-# 如果您的网站存放在子目录中，例如 http://yoursite.com/blog，
-# 请将您的 url 设为 http://yoursite.com/blog 并把 root 设为 /blog/。
-root: 
 
 # Content
 excerpt_link: more
@@ -40,30 +40,26 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar:
+avatar: http://7xqkff.com1.z0.glb.clouddn.com/AIer.png
 #是否开启分享
 share_jia: true
 share_addthis: false
 #是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
 #若使用disqus，请在博客config文件中填写disqus_shortname，并关闭多说评论
 duoshuo: true
+
 #是否开启云标签
 tagcloud: true
-
-#是否开启友情链接
-#不开启——
-#friends: false
-#开启——
-friends:
-  奥巴马的博客: http://localhost:4000/
-  卡卡的美丽传说: http://localhost:4000/
-  本泽马的博客: http://localhost:4000/
-  吉格斯的博客: http://localhost:4000/
-  习大大大不同: http://localhost:4000/
-  托蒂的博客: http://localhost:4000/
 
 #是否开启“关于我”。
 #不开启——
 #aboutme: false
 #开启——
-aboutme: 我是谁，我从哪里来，我到哪里去？我就是我，是颜色不一样的吃货…
+aboutme: 北邮在读，计算机视觉与深度学习，理想很简单，爱听摇滚乐，生性健忘, 所以写博客
+#aboutme: 虚心与专注，才具有匠人精神； 创新与完美主义，才足够极客。
+#是否开启友情链接
+#不开启——
+friends: false
+#开启——
+#friends:
+ # 马的博客: http://localhost:4000/
